@@ -885,9 +885,116 @@
     }
   },
   "light": {
-    "content": {},
-    "background": {},
-    "border": {}
+    "content": {
+      "high": {
+        "value": "$neutral.10",
+        "type": "color"
+      },
+      "medium": {
+        "value": "$neutral.50",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "$neutral.80",
+        "type": "color"
+      },
+      "highInverse": {
+        "value": "$neutral.100",
+        "type": "color"
+      },
+      "mediumInverse": {
+        "value": "$neutral.60",
+        "type": "color"
+      },
+      "disabledInverse": {
+        "value": "$neutral.30",
+        "type": "color"
+      },
+      "primary": {
+        "value": "$lime.40",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "$cyan.40",
+        "type": "color"
+      },
+      "error": {
+        "value": "$red.40",
+        "type": "color"
+      }
+    },
+    "background": {
+      "elevation0": {
+        "value": "$neutral.95",
+        "type": "color"
+      },
+      "elevation1": {
+        "value": "$neutral.100",
+        "type": "color"
+      },
+      "elevation2": {
+        "value": "$neutral.99",
+        "type": "color"
+      },
+      "elevation3": {
+        "value": "$neutral.95",
+        "type": "color"
+      },
+      "elevation0Inverse": {
+        "value": "$neutral.0",
+        "type": "color"
+      },
+      "elevation1Inverse": {
+        "value": "$neutral.10",
+        "type": "color"
+      },
+      "elevation2Inverse": {
+        "value": "$neutral.20",
+        "type": "color"
+      },
+      "elevation3Inverse": {
+        "value": "$neutral.20",
+        "type": "color"
+      },
+      "primary": {
+        "value": "$lime.90",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "$cyan.90",
+        "type": "color"
+      },
+      "error": {
+        "value": "$red.90",
+        "type": "color"
+      }
+    },
+    "border": {
+      "light": {
+        "value": "{neutral.0}1A",
+        "type": "color"
+      },
+      "dark": {
+        "value": "{neutral.0}E0",
+        "type": "color"
+      },
+      "opaque": {
+        "value": "$neutral.90",
+        "type": "color"
+      },
+      "primary": {
+        "value": "$lime.90",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "$cyan.90",
+        "type": "color"
+      },
+      "error": {
+        "value": "$red.90",
+        "type": "color"
+      }
+    }
   },
   "dark": {
     "content": {},
