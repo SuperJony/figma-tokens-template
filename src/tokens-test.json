@@ -10,7 +10,7 @@
         "type": "sizing"
       },
       "1x": {
-        "value": "1 * {size.scale}",
+        "value": "1 * {sizeScale.scale}",
         "type": "sizing"
       },
       "2x": {
@@ -1006,7 +1006,7 @@
       "filled": {
         "content": {
           "onPrimary": {
-            "value": "$content.inverseHigh",
+            "value": "$content.highInverse",
             "type": "color"
           }
         },
