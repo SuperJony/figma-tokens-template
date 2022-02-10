@@ -404,7 +404,7 @@
         }
       }
     },
-    "fontFamilies": {
+    "fontFamily": {
       "system": {
         "value": "Roboto",
         "type": "fontFamilies"
@@ -418,71 +418,71 @@
       "display": {
         "large": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "medium": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "small": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         }
       },
       "headline": {
         "large": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "medium": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "small": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         }
       },
       "title": {
         "large": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "medium": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "small": {
           "value": "Medium",
-          "type": "fontWeight"
+          "type": "fontWeights"
         }
       },
       "label": {
         "large": {
           "value": "Medium",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "medium": {
           "value": "Medium",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "small": {
           "value": "Medium",
-          "type": "fontWeight"
+          "type": "fontWeights"
         }
       },
       "body": {
         "large": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "medium": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         },
         "small": {
           "value": "Regular",
-          "type": "fontWeight"
+          "type": "fontWeights"
         }
       }
     },
@@ -490,71 +490,71 @@
       "display": {
         "large": {
           "value": "57",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "medium": {
           "value": "45",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "small": {
           "value": "36",
-          "type": "fontSize"
+          "type": "fontSizes"
         }
       },
       "headline": {
         "large": {
           "value": "32",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "medium": {
           "value": "28",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "small": {
           "value": "24",
-          "type": "fontSize"
+          "type": "fontSizes"
         }
       },
       "title": {
         "large": {
           "value": "22",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "medium": {
           "value": "16",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "small": {
           "value": "14",
-          "type": "fontSize"
+          "type": "fontSizes"
         }
       },
       "label": {
         "large": {
           "value": "14",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "medium": {
           "value": "12",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "small": {
           "value": "11",
-          "type": "fontSize"
+          "type": "fontSizes"
         }
       },
       "body": {
         "large": {
           "value": "16",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "medium": {
           "value": "14",
-          "type": "fontSize"
+          "type": "fontSizes"
         },
         "small": {
           "value": "12",
-          "type": "fontSize"
+          "type": "fontSizes"
         }
       }
     },
@@ -562,71 +562,71 @@
       "display": {
         "large": {
           "value": "64",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "medium": {
           "value": "52",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "small": {
           "value": "44",
-          "type": "lineHeight"
+          "type": "lineHeights"
         }
       },
       "headline": {
         "large": {
           "value": "40",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "medium": {
           "value": "36",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "small": {
           "value": "32",
-          "type": "lineHeight"
+          "type": "lineHeights"
         }
       },
       "title": {
         "large": {
           "value": "28",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "medium": {
           "value": "24",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "small": {
           "value": "20",
-          "type": "lineHeight"
+          "type": "lineHeights"
         }
       },
       "label": {
         "large": {
           "value": "20",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "medium": {
           "value": "16",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "small": {
           "value": "16",
-          "type": "lineHeight"
+          "type": "lineHeights"
         }
       },
       "body": {
         "large": {
           "value": "24",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "medium": {
           "value": "20",
-          "type": "lineHeight"
+          "type": "lineHeights"
         },
         "small": {
           "value": "16",
-          "type": "lineHeight"
+          "type": "lineHeights"
         }
       }
     }
