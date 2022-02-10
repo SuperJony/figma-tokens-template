@@ -407,11 +407,11 @@
     "fontFamily": {
       "system": {
         "value": "Roboto",
-        "type": "fontFamilies"
+        "type": "fontFamily"
       },
       "yuewenFont": {
         "value": "Yuewen Font",
-        "type": "fontFamilies"
+        "type": "fontFamily"
       }
     },
     "fontWeight": {
@@ -1408,7 +1408,7 @@
       "display": {
         "large": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.display.large",
             "fontSize": "$fontSize.display.large",
             "lineHeight": "$lineHeight.display.large"
@@ -1417,7 +1417,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.display.medium",
             "fontSize": "$fontSize.display.medium",
             "lineHeight": "$lineHeight.display.medium"
@@ -1426,7 +1426,7 @@
         },
         "small": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.display.small",
             "fontSize": "$fontSize.display.small",
             "lineHeight": "$lineHeight.display.small"
@@ -1437,7 +1437,7 @@
       "headline": {
         "large": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.headline.large",
             "fontSize": "$fontSize.headline.large",
             "lineHeight": "$lineHeight.headline.large"
@@ -1446,7 +1446,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.headline.medium",
             "fontSize": "$fontSize.headline.medium",
             "lineHeight": "$lineHeight.headline.medium"
@@ -1455,7 +1455,7 @@
         },
         "small": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.headline.small",
             "fontSize": "$fontSize.headline.small",
             "lineHeight": "$lineHeight.headline.small"
@@ -1466,7 +1466,7 @@
       "title": {
         "large": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.title.large",
             "fontSize": "$fontSize.title.large",
             "lineHeight": "$lineHeight.title.large"
@@ -1475,7 +1475,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.title.medium",
             "fontSize": "$fontSize.title.medium",
             "lineHeight": "$lineHeight.title.medium"
@@ -1484,7 +1484,7 @@
         },
         "small": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.title.small",
             "fontSize": "$fontSize.title.small",
             "lineHeight": "$lineHeight.title.small"
@@ -1495,7 +1495,7 @@
       "label": {
         "large": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.label.large",
             "fontSize": "$fontSize.label.large",
             "lineHeight": "$lineHeight.label.large"
@@ -1504,7 +1504,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.label.medium",
             "fontSize": "$fontSize.label.medium",
             "lineHeight": "$lineHeight.label.medium"
@@ -1513,7 +1513,7 @@
         },
         "small": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.label.small",
             "fontSize": "$fontSize.label.small",
             "lineHeight": "$lineHeight.label.small"
@@ -1524,7 +1524,7 @@
       "body": {
         "large": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.body.large",
             "fontSize": "$fontSize.body.large",
             "lineHeight": "$lineHeight.body.large"
@@ -1533,7 +1533,7 @@
         },
         "medium": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.body.medium",
             "fontSize": "$fontSize.body.medium",
             "lineHeight": "$lineHeight.body.medium"
@@ -1542,7 +1542,7 @@
         },
         "small": {
           "value": {
-            "fontFamily": "$fontFamilies.system",
+            "fontFamily": "$fontFamily.system",
             "fontWeight": "$fontWeight.body.small",
             "fontSize": "$fontSize.body.small",
             "lineHeight": "$lineHeight.body.small"
