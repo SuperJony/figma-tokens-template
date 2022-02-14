@@ -638,7 +638,7 @@
           "value": "{palette.neutral.10}",
           "type": "color"
         },
-        "contentWeak": {
+        "contentMedium": {
           "value": "{palette.neutral.50}",
           "type": "color"
         },
@@ -646,8 +646,20 @@
           "value": "{palette.neutral.80}",
           "type": "color"
         },
+        "contentOnEmphasis": {
+          "value": "{palette.neutral.99}",
+          "type": "color"
+        },
+        "contentOnEmphasisMedium": {
+          "value": "{palette.neutral.50}",
+          "type": "color"
+        },
+        "contentOnEmphasisDisabled": {
+          "value": "{palette.neutral.30}",
+          "type": "color"
+        },
         "background": {
-          "value": "{palette.neutral.95}",
+          "value": "{palette.neutral.99}",
           "type": "color"
         },
         "surface": {
@@ -655,35 +667,51 @@
           "type": "color"
         },
         "surfaceMedium": {
-          "value": "{palette.neutral.95}",
+          "value": "{palette.neutral.99}",
           "type": "color"
         },
         "surfaceStrong": {
-          "value": "{palette.neutral.90}",
+          "value": "{palette.neutral.95}",
+          "type": "color"
+        },
+        "surfaceEmphasis": {
+          "value": "{palette.neutral.10}",
           "type": "color"
         },
         "surfaceDisabled": {
-          "value": "{palette.neutral.90}",
-          "type": "color"
-        },
-        "overlayWeak": {
-          "value": "{palette.neutral.10}1f",
+          "value": "{palette.neutral.95}",
           "type": "color"
         },
         "overlay": {
-          "value": "{palette.neutral.10}3d",
+          "value": "{palette.neutral.10}29",
+          "type": "color"
+        },
+        "overlaymedium": {
+          "value": "{palette.neutral.10}52",
           "type": "color"
         },
         "overlayStrong": {
           "value": "{palette.neutral.10}7a",
           "type": "color"
         },
-        "borderOpaque": {
-          "value": "{palette.neutral.90}",
+        "overlayOnEmphasis": {
+          "value": "{palette.neutral.100}29",
           "type": "color"
         },
-        "borderTransparent": {
-          "value": "{palette.neutral.10}14",
+        "overlayOnEmphasisMedium": {
+          "value": "{palette.neutral.100}52",
+          "type": "color"
+        },
+        "overlayOnEmphasisStrong": {
+          "value": "{palette.neutral.100}7a",
+          "type": "color"
+        },
+        "border": {
+          "value": "{palette.neutral.10}1a",
+          "type": "color"
+        },
+        "borderOpaque": {
+          "value": "{palette.neutral.95}",
           "type": "color"
         }
       },
