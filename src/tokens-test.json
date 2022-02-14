@@ -241,7 +241,7 @@
           "type": "color"
         }
       },
-      "Blue": {
+      "blue": {
         "100": {
           "value": "#ffffff",
           "type": "color"
@@ -295,7 +295,7 @@
           "type": "color"
         }
       },
-      "Pink": {
+      "pink": {
         "100": {
           "value": "#ffffff",
           "type": "color"
