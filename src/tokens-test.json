@@ -1432,6 +1432,28 @@
         "value": "{length.1x}",
         "type": "borderWidth"
       }
+    },
+    "opacity": {
+      "xs": {
+        "value": "{length.2x}%",
+        "type": "opacity"
+      },
+      "sm": {
+        "value": "{length.3x}%",
+        "type": "opacity"
+      },
+      "md": {
+        "value": "{length.6x}%",
+        "type": "opacity"
+      },
+      "lg": {
+        "value": "{length.12x}%",
+        "type": "opacity"
+      },
+      "xl": {
+        "value": "{length.20x}%",
+        "type": "opacity"
+      }
     }
   },
   "recipe": {}
