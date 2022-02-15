@@ -9,6 +9,14 @@
         "value": "0",
         "type": "sizing"
       },
+      "x/4": {
+        "value": "0.25 * {length.scale}",
+        "type": "sizing"
+      },
+      "3x/4": {
+        "value": "0.75 * {length.scale}",
+        "type": "sizing"
+      },
       "1x": {
         "value": "1 * {length.scale}",
         "type": "sizing"
@@ -1259,23 +1267,27 @@
     },
     "size": {
       "xs": {
-        "value": "{length.2x}",
+        "value": "{length.4x}",
         "type": "sizing"
       },
       "sm": {
-        "value": "{length.2x}",
+        "value": "{length.5x}",
         "type": "sizing"
       },
       "md": {
-        "value": "{length.2x}",
+        "value": "{length.6x}",
         "type": "sizing"
       },
       "lg": {
-        "value": "{length.2x}",
+        "value": "{length.8x}",
         "type": "sizing"
       },
       "xl": {
-        "value": "{length.2x}",
+        "value": "{length.10x}",
+        "type": "sizing"
+      },
+      "2xl": {
+        "value": "{length.10x}",
         "type": "sizing"
       }
     },
@@ -1311,7 +1323,7 @@
         "type": "borderRadius"
       },
       "xs": {
-        "value": "{length.2x}",
+        "value": "{length.1x}",
         "type": "borderRadius"
       },
       "sm": {
@@ -1319,15 +1331,19 @@
         "type": "borderRadius"
       },
       "md": {
-        "value": "{length.2x}",
+        "value": "{length.4x}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{length.2x}",
+        "value": "{length.6x}",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "{length.2x}",
+        "value": "{length.8x}",
+        "type": "borderRadius"
+      },
+      "full": {
+        "value": "9999",
         "type": "borderRadius"
       }
     },
@@ -1337,23 +1353,23 @@
         "type": "borderWidth"
       },
       "xs": {
-        "value": "{length.2x}",
+        "value": "0.5",
         "type": "borderWidth"
       },
       "sm": {
-        "value": "{length.2x}",
+        "value": "1",
         "type": "borderWidth"
       },
       "md": {
-        "value": "{length.2x}",
+        "value": "2",
         "type": "borderWidth"
       },
       "lg": {
-        "value": "{length.2x}",
+        "value": "{length.x/4}",
         "type": "borderWidth"
       },
       "xl": {
-        "value": "{length.2x}",
+        "value": "4",
         "type": "borderWidth"
       }
     }
