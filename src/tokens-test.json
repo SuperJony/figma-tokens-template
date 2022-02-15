@@ -1012,16 +1012,16 @@
           "value": "{palette.yellow.99}",
           "type": "color"
         },
-        "surfaceEmphasis": {
-          "value": "{palette.yellow.50}",
-          "type": "color"
-        },
         "contentOnEmphasis": {
           "value": "{palette.yellow.100}",
           "type": "color"
         },
         "contentOnEmphasisWeak": {
           "value": "{palette.yellow.70}",
+          "type": "color"
+        },
+        "surfaceEmphasis": {
+          "value": "{palette.yellow.50}",
           "type": "color"
         },
         "borderEmphasis": {
