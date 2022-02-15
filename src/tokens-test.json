@@ -5,6 +5,14 @@
         "value": "4",
         "type": "sizing"
       },
+      "screenWidth": {
+        "value": "360",
+        "type": "sizing"
+      },
+      "screenHeight": {
+        "value": "780",
+        "type": "sizing"
+      },
       "0x": {
         "value": "0",
         "type": "sizing"
@@ -1274,28 +1282,68 @@
       }
     },
     "size": {
+      "xxs": {
+        "value": "{length.1x}",
+        "type": "sizing"
+      },
       "xs": {
-        "value": "{length.4x}",
+        "value": "{length.2x}",
         "type": "sizing"
       },
       "sm": {
-        "value": "{length.5x}",
+        "value": "{length.3x}",
         "type": "sizing"
       },
       "md": {
-        "value": "{length.6x}",
+        "value": "{length.4x}",
         "type": "sizing"
       },
       "lg": {
-        "value": "{length.8x}",
+        "value": "{length.5x}",
         "type": "sizing"
       },
       "xl": {
+        "value": "{length.6x}",
+        "type": "sizing"
+      },
+      "8x": {
+        "value": "{length.8x}",
+        "type": "sizing"
+      },
+      "10x": {
         "value": "{length.10x}",
         "type": "sizing"
       },
-      "2xl": {
-        "value": "{length.10x}",
+      "12x": {
+        "value": "{length.12x}",
+        "type": "sizing"
+      },
+      "14x": {
+        "value": "{length.14x}",
+        "type": "sizing"
+      },
+      "16x": {
+        "value": "{length.16x}",
+        "type": "sizing"
+      },
+      "18x": {
+        "value": "{length.18x}",
+        "type": "sizing"
+      },
+      "20x": {
+        "value": "{length.20x}",
+        "type": "sizing"
+      },
+      "22x": {
+        "value": "{length.22x}",
+        "type": "sizing"
+      },
+      "24x": {
+        "value": "{length.24x}",
+        "type": "sizing"
+      },
+      "full": {
+        "value": "{length.screenWidth}",
         "type": "sizing"
       }
     },
@@ -1304,24 +1352,28 @@
         "value": "0",
         "type": "spacing"
       },
+      "xxs": {
+        "value": "{length.1x}",
+        "type": "spacing"
+      },
       "xs": {
         "value": "{length.2x}",
         "type": "spacing"
       },
       "sm": {
-        "value": "{length.2x}",
+        "value": "{length.4x}",
         "type": "spacing"
       },
       "md": {
-        "value": "{length.2x}",
+        "value": "{length.6x}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{length.2x}",
+        "value": "{length.8x}",
         "type": "spacing"
       },
       "xl": {
-        "value": "{length.2x}",
+        "value": "{length.10x}",
         "type": "spacing"
       }
     },
