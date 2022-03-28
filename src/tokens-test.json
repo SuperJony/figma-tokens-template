@@ -1389,19 +1389,19 @@
         "type": "spacing"
       },
       "sm": {
-        "value": "{length.4x}",
+        "value": "{length.3x}",
         "type": "spacing"
       },
       "md": {
-        "value": "{length.6x}",
+        "value": "{length.4x}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{length.8x}",
+        "value": "{length.6x}",
         "type": "spacing"
       },
       "xl": {
-        "value": "{length.10x}",
+        "value": "{length.8x}",
         "type": "spacing"
       }
     },
