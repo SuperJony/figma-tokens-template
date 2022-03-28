@@ -881,7 +881,7 @@
           "type": "color"
         },
         "surfaceStrong": {
-          "value": "{palette.neutral.94}",
+          "value": "{palette.neutral.90}",
           "type": "color"
         },
         "surfaceInverse": {
@@ -1191,7 +1191,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{palette.neutral.90}",
+          "value": "{palette.neutral.94}",
           "type": "color"
         },
         "border": {
