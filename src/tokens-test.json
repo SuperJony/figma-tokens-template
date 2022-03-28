@@ -939,7 +939,7 @@
           "type": "color"
         },
         "contentWeak": {
-          "value": "{palette.blue.70}",
+          "value": "{palette.blue.60}",
           "type": "color"
         },
         "contentOnEmphasis": {
@@ -955,7 +955,7 @@
           "type": "color"
         },
         "surfaceEmphasis": {
-          "value": "{palette.blue.50}",
+          "value": "{palette.blue.40}",
           "type": "color"
         },
         "overlay": {
@@ -981,7 +981,7 @@
           "type": "color"
         },
         "contentWeak": {
-          "value": "{palette.pink.70}",
+          "value": "{palette.pink.60}",
           "type": "color"
         },
         "contentOnEmphasis": {
@@ -997,7 +997,7 @@
           "type": "color"
         },
         "surfaceEmphasis": {
-          "value": "{palette.pink.50}",
+          "value": "{palette.pink.40}",
           "type": "color"
         },
         "overlay": {
@@ -1023,7 +1023,7 @@
           "type": "color"
         },
         "contentWeak": {
-          "value": "{palette.red.70}",
+          "value": "{palette.red.60}",
           "type": "color"
         },
         "contentOnEmphasis": {
@@ -1039,7 +1039,7 @@
           "type": "color"
         },
         "surfaceEmphasis": {
-          "value": "{palette.red.50}",
+          "value": "{palette.red.40}",
           "type": "color"
         },
         "overlay": {
@@ -1065,7 +1065,7 @@
           "type": "color"
         },
         "contentWeak": {
-          "value": "{palette.yellow.70}",
+          "value": "{palette.yellow.60}",
           "type": "color"
         },
         "contentOnEmphasis": {
@@ -1081,7 +1081,7 @@
           "type": "color"
         },
         "surfaceEmphasis": {
-          "value": "{palette.yellow.50}",
+          "value": "{palette.yellow.40}",
           "type": "color"
         },
         "overlay": {
@@ -1107,7 +1107,7 @@
           "type": "color"
         },
         "contentWeak": {
-          "value": "{palette.green.70}",
+          "value": "{palette.green.60}",
           "type": "color"
         },
         "contentOnEmphasis": {
@@ -1123,7 +1123,7 @@
           "type": "color"
         },
         "surfaceEmphasis": {
-          "value": "{palette.green.50}",
+          "value": "{palette.green.40}",
           "type": "color"
         },
         "overlay": {
@@ -1149,7 +1149,7 @@
           "type": "color"
         },
         "contentWeak": {
-          "value": "{palette.orange.70}",
+          "value": "{palette.orange.60}",
           "type": "color"
         },
         "contentOnEmphasis": {
@@ -1165,7 +1165,7 @@
           "type": "color"
         },
         "surfaceEmphasis": {
-          "value": "{palette.orange.50}",
+          "value": "{palette.orange.40}",
           "type": "color"
         },
         "overlay": {
