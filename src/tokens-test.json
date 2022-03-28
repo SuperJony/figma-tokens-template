@@ -916,12 +916,12 @@
           "value": "{palette.neutral.90}",
           "type": "color"
         },
-        "borderTransparent": {
-          "value": "{palette.neutral.0}1f",
-          "type": "color"
-        },
         "borderInverse": {
           "value": "{palette.neutral.10}",
+          "type": "color"
+        },
+        "borderTransparent": {
+          "value": "{palette.neutral.0}1f",
           "type": "color"
         },
         "borderTransparentInverse": {
