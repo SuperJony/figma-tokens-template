@@ -1397,11 +1397,23 @@
         "type": "spacing"
       },
       "lg": {
-        "value": "{length.6x}",
+        "value": "{length.5x}",
         "type": "spacing"
       },
       "xl": {
+        "value": "{length.6x}",
+        "type": "spacing"
+      },
+      "8x": {
         "value": "{length.8x}",
+        "type": "spacing"
+      },
+      "10x": {
+        "value": "{length.10x}",
+        "type": "spacing"
+      },
+      "12x": {
+        "value": "{length.12x}",
         "type": "spacing"
       }
     },
