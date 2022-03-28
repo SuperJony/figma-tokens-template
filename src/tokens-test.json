@@ -935,7 +935,7 @@
       },
       "primary": {
         "content": {
-          "value": "{palette.blue.40}",
+          "value": "{palette.blue.30}",
           "type": "color"
         },
         "contentWeak": {
@@ -951,7 +951,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{palette.blue.94}",
+          "value": "{palette.blue.90}",
           "type": "color"
         },
         "surfaceEmphasis": {
@@ -977,7 +977,7 @@
       },
       "secondary": {
         "content": {
-          "value": "{palette.pink.40}",
+          "value": "{palette.pink.30}",
           "type": "color"
         },
         "contentWeak": {
@@ -993,7 +993,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{palette.pink.94}",
+          "value": "{palette.pink.90}",
           "type": "color"
         },
         "surfaceEmphasis": {
@@ -1019,7 +1019,7 @@
       },
       "negative": {
         "content": {
-          "value": "{palette.red.40}",
+          "value": "{palette.red.30}",
           "type": "color"
         },
         "contentWeak": {
@@ -1035,7 +1035,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{palette.red.94}",
+          "value": "{palette.red.90}",
           "type": "color"
         },
         "surfaceEmphasis": {
@@ -1061,7 +1061,7 @@
       },
       "attention": {
         "content": {
-          "value": "{palette.yellow.40}",
+          "value": "{palette.yellow.30}",
           "type": "color"
         },
         "contentWeak": {
@@ -1077,7 +1077,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{palette.yellow.94}",
+          "value": "{palette.yellow.90}",
           "type": "color"
         },
         "surfaceEmphasis": {
@@ -1103,7 +1103,7 @@
       },
       "positive": {
         "content": {
-          "value": "{palette.green.40}",
+          "value": "{palette.green.30}",
           "type": "color"
         },
         "contentWeak": {
@@ -1119,7 +1119,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{palette.green.94}",
+          "value": "{palette.green.90}",
           "type": "color"
         },
         "surfaceEmphasis": {
@@ -1145,7 +1145,7 @@
       },
       "upsell": {
         "content": {
-          "value": "{palette.orange.40}",
+          "value": "{palette.orange.30}",
           "type": "color"
         },
         "contentWeak": {
@@ -1161,7 +1161,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{palette.orange.94}",
+          "value": "{palette.orange.90}",
           "type": "color"
         },
         "surfaceEmphasis": {
