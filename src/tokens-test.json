@@ -1201,7 +1201,7 @@
       },
       "extension": {
         "scrim": {
-          "value": "{palette.neutral.10}8f",
+          "value": "{palette.neutral.0}8f",
           "type": "color"
         }
       }
