@@ -1540,5 +1540,90 @@
       }
     }
   },
-  "recipe": {}
+  "recipe": {
+    "snackbar": {
+      "Sentiment": {
+        "low": {
+          "primary": {
+            "icon": {
+              "value": "{light.primary.content}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{light.primary.content}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{light.primary.surface}",
+              "type": "color"
+            }
+          },
+          "secondary": {}
+        },
+        "high": {
+          "primary": {
+            "icon": {
+              "value": "{light.primary.contentOnEmphasis}",
+              "type": "color"
+            },
+            "text": {
+              "value": "{light.primary.contentOnEmphasis}",
+              "type": "color"
+            },
+            "background": {
+              "value": "{light.primary.surfaceEmphasis}",
+              "type": "color"
+            }
+          },
+          "secondary": {}
+        }
+      },
+      "typography": {
+        "text": {
+          "value": "{typography.body.large}",
+          "type": "typography"
+        }
+      },
+      "borderRadius": {
+        "background": {
+          "value": "{borderRadius.sm}",
+          "type": "borderRadius"
+        }
+      },
+      "size": {
+        "icon": {
+          "value": "{size.xl}",
+          "type": "sizing"
+        }
+      },
+      "space": {
+        "icon": {
+          "leading": {
+            "value": "{space.md}",
+            "type": "spacing"
+          },
+          "Trailing": {
+            "value": "{space.md}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "all": {
+            "value": "{space.md}",
+            "type": "spacing"
+          }
+        },
+        "button": {
+          "leading": {
+            "value": "{space.xxs}",
+            "type": "spacing"
+          },
+          "Trailing": {
+            "value": "{space.xxs}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
 }
