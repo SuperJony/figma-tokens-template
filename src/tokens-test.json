@@ -1545,11 +1545,7 @@
       "sentiment": {
         "low": {
           "primary": {
-            "icon": {
-              "value": "{light.primary.content}",
-              "type": "color"
-            },
-            "text": {
+            "content": {
               "value": "{light.primary.content}",
               "type": "color"
             },
@@ -1562,11 +1558,7 @@
         },
         "high": {
           "primary": {
-            "icon": {
-              "value": "{light.primary.contentOnEmphasis}",
-              "type": "color"
-            },
-            "text": {
+            "content": {
               "value": "{light.primary.contentOnEmphasis}",
               "type": "color"
             },
@@ -1614,6 +1606,10 @@
           },
           "right": {
             "value": "{space.xxs}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{space.none}",
             "type": "spacing"
           }
         }
