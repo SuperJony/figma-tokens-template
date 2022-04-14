@@ -1578,12 +1578,6 @@
           "secondary": {}
         }
       },
-      "typography": {
-        "text": {
-          "value": "{typography.body.large}",
-          "type": "typography"
-        }
-      },
       "borderRadius": {
         "background": {
           "value": "{borderRadius.sm}",
