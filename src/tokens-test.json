@@ -1542,7 +1542,7 @@
   },
   "recipe": {
     "snackbar": {
-      "Sentiment": {
+      "sentiment": {
         "low": {
           "primary": {
             "icon": {
@@ -1553,7 +1553,7 @@
               "value": "{light.primary.content}",
               "type": "color"
             },
-            "background": {
+            "surface": {
               "value": "{light.primary.surface}",
               "type": "color"
             }
@@ -1570,7 +1570,7 @@
               "value": "{light.primary.contentOnEmphasis}",
               "type": "color"
             },
-            "background": {
+            "surface": {
               "value": "{light.primary.surfaceEmphasis}",
               "type": "color"
             }
@@ -1579,7 +1579,7 @@
         }
       },
       "borderRadius": {
-        "background": {
+        "surface": {
           "value": "{borderRadius.sm}",
           "type": "borderRadius"
         }
@@ -1592,11 +1592,11 @@
       },
       "space": {
         "icon": {
-          "leading": {
+          "left": {
             "value": "{space.md}",
             "type": "spacing"
           },
-          "Trailing": {
+          "right": {
             "value": "{space.md}",
             "type": "spacing"
           }
@@ -1608,11 +1608,11 @@
           }
         },
         "button": {
-          "leading": {
+          "left": {
             "value": "{space.xxs}",
             "type": "spacing"
           },
-          "Trailing": {
+          "right": {
             "value": "{space.xxs}",
             "type": "spacing"
           }
