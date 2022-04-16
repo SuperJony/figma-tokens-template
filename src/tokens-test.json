@@ -37,6 +37,10 @@
         "value": "1 * {length.scale}",
         "type": "sizing"
       },
+      "3x/2": {
+        "value": "1.5 * {length.scale}",
+        "type": "sizing"
+      },
       "2x": {
         "value": "2 * {length.scale}",
         "type": "sizing"
@@ -1642,6 +1646,62 @@
       },
       "borderWidth": {
         "value": "{borderWidth.xs}",
+        "type": "borderWidth"
+      }
+    },
+    "badage": {
+      "color": {
+        "surface": {
+          "value": "{light.negative.surfaceEmphasis}",
+          "type": "color"
+        },
+        "content": {
+          "value": "{light.negative.contentOnEmphasis}",
+          "type": "color"
+        },
+        "border": {
+          "value": "{light.negative.contentOnEmphasis}",
+          "type": "color"
+        }
+      },
+      "size": {
+        "dot": {
+          "value": "{size.3x}/2",
+          "type": "sizing"
+        },
+        "icon": {
+          "value": "{size.3x}",
+          "type": "sizing"
+        },
+        "digit": {
+          "value": "{size.xs}",
+          "type": "sizing"
+        }
+      },
+      "space": {
+        "icon": {
+          "all": {
+            "value": "{space.xxs}/2",
+            "type": "spacing"
+          }
+        },
+        "digit": {
+          "left": {
+            "value": "{space.xxs}",
+            "type": "spacing"
+          },
+          "right": {
+            "value": "{space.xxs}",
+            "type": "spacing"
+          }
+        }
+      },
+      "borderRadius": {
+        "value": "{borderRadius.full}",
+        "type": "borderRadius"
+      },
+      "borderWidth": {
+        "value": "{borderWidth.sm}",
         "type": "borderWidth"
       }
     }
