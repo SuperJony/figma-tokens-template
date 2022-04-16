@@ -1649,7 +1649,7 @@
         "type": "borderWidth"
       }
     },
-    "badage": {
+    "badge": {
       "color": {
         "surface": {
           "value": "{light.negative.surfaceEmphasis}",
