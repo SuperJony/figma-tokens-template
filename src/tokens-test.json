@@ -1354,27 +1354,27 @@
       }
     },
     "size": {
-      "xxs": {
+      "1x": {
         "value": "{length.1x}",
         "type": "sizing"
       },
-      "xs": {
+      "2x": {
         "value": "{length.2x}",
         "type": "sizing"
       },
-      "sm": {
+      "3x": {
         "value": "{length.3x}",
         "type": "sizing"
       },
-      "md": {
+      "xs": {
         "value": "{length.4x}",
         "type": "sizing"
       },
-      "lg": {
+      "5x": {
         "value": "{length.5x}",
         "type": "sizing"
       },
-      "xl": {
+      "sm": {
         "value": "{length.6x}",
         "type": "sizing"
       },
@@ -1382,7 +1382,7 @@
         "value": "{length.8x}",
         "type": "sizing"
       },
-      "10x": {
+      "md": {
         "value": "{length.10x}",
         "type": "sizing"
       },
@@ -1390,7 +1390,7 @@
         "value": "{length.12x}",
         "type": "sizing"
       },
-      "14x": {
+      "lg": {
         "value": "{length.14x}",
         "type": "sizing"
       },
@@ -1398,7 +1398,7 @@
         "value": "{length.16x}",
         "type": "sizing"
       },
-      "18x": {
+      "xl": {
         "value": "{length.18x}",
         "type": "sizing"
       },
@@ -1542,7 +1542,7 @@
   },
   "recipe": {
     "snackbar": {
-      "sentiment": {
+      "color": {
         "low": {
           "primary": {
             "content": {
@@ -1578,7 +1578,7 @@
       },
       "size": {
         "icon": {
-          "value": "{size.xl}",
+          "value": "{size.sm}",
           "type": "sizing"
         }
       },
@@ -1613,6 +1613,36 @@
             "type": "spacing"
           }
         }
+      }
+    },
+    "avatar": {
+      "color": {
+        "border": {
+          "value": "{light.neutral.borderTransparent}",
+          "type": "color"
+        }
+      },
+      "size": {
+        "small": {
+          "value": "{size.sm}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{size.8x}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{size.md}",
+          "type": "sizing"
+        },
+        "xLarge": {
+          "value": "{size.lg}",
+          "type": "sizing"
+        }
+      },
+      "borderWidth": {
+        "value": "{borderWidth.xs}",
+        "type": "borderWidth"
       }
     }
   }
