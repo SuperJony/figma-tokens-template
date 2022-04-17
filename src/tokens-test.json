@@ -2738,27 +2738,27 @@
       "space": {
         "container": {
           "all": {
-            "value": "{space.3x}*0.5",
+            "value": "{space.sm}*0.5",
             "type": "spacing"
           }
         },
         "text": {
           "right": {
-            "value": "{space.3x}*0.5",
+            "value": "{space.sm}*0.5",
             "type": "spacing"
           },
           "left": {
-            "value": "{space.3x}*0.5",
+            "value": "{space.sm}*0.5",
             "type": "spacing"
           }
         },
         "withIcon": {
           "right": {
-            "value": "{space.3x}*0.5",
+            "value": "{space.sm}*0.5",
             "type": "spacing"
           },
           "left": {
-            "value": "{space.3x}*0.5",
+            "value": "{space.sm}*0.5",
             "type": "spacing"
           },
           "gap": {
