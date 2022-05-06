@@ -1561,8 +1561,7 @@
               "value": "{light.primary.surface}",
               "type": "color"
             }
-          },
-          "secondary": {}
+          }
         },
         "high": {
           "primary": {
@@ -1574,8 +1573,7 @@
               "value": "{light.primary.surfaceEmphasis}",
               "type": "color"
             }
-          },
-          "secondary": {}
+          }
         }
       },
       "borderRadius": {
@@ -1745,8 +1743,7 @@
           "value": "{size.lg}",
           "type": "sizing"
         }
-      },
-      "space": {}
+      }
     },
     "button": {
       "color": {
@@ -2113,9 +2110,7 @@
               }
             }
           }
-        },
-        "outline": {},
-        "plain": {}
+        }
       },
       "size": {
         "large": {
@@ -2559,9 +2554,7 @@
               }
             }
           }
-        },
-        "outline": {},
-        "plain": {}
+        }
       },
       "size": {
         "large": {
