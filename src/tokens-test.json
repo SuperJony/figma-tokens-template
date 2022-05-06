@@ -13,10 +13,6 @@
         "value": "780",
         "type": "sizing"
       },
-      "0x": {
-        "value": "0",
-        "type": "sizing"
-      },
       "x/8": {
         "value": "0.125 * {length.scale}",
         "type": "sizing"
@@ -1424,10 +1420,6 @@
       }
     },
     "space": {
-      "none": {
-        "value": "0",
-        "type": "spacing"
-      },
       "x/2": {
         "value": "{length.x/2}",
         "type": "spacing"
@@ -1470,10 +1462,6 @@
       }
     },
     "borderRadius": {
-      "none": {
-        "value": "0",
-        "type": "borderRadius"
-      },
       "xs": {
         "value": "{length.1x}",
         "type": "borderRadius"
@@ -1500,10 +1488,6 @@
       }
     },
     "borderWidth": {
-      "none": {
-        "value": "0",
-        "type": "borderWidth"
-      },
       "xs": {
         "value": "{length.x/8}",
         "type": "borderWidth"
