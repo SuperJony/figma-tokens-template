@@ -1233,7 +1233,7 @@
           "type": "color"
         },
         "surface": {
-          "value": "{palette.neutral.0}",
+          "value": "{palette.neutral.20}",
           "type": "color"
         },
         "surfaceMedium": {
@@ -1241,7 +1241,7 @@
           "type": "color"
         },
         "surfaceStrong": {
-          "value": "{palette.neutral.20}",
+          "value": "{palette.neutral.0}",
           "type": "color"
         },
         "surfaceInverse": {
